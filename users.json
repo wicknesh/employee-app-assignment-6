@@ -1,0 +1,22 @@
+[
+    { "name": "John Doe", "username": "johndoe", "email": "johndoe@example.com", "password": "johndoe123" },
+    { "name": "Jane Smith", "username": "janesmith", "email": "janesmith@example.com", "password": "janesmith456" },
+    { "name": "Robert Brown", "username": "robertbrown", "email": "robertbrown@example.com", "password": "robert789" },
+    { "name": "Emily Davis", "username": "emilydavis", "email": "emilydavis@example.com", "password": "emily123" },
+    { "name": "Michael Johnson", "username": "michaelj", "email": "michaelj@example.com", "password": "michael456" },
+    { "name": "Sarah Wilson", "username": "sarahw", "email": "sarahw@example.com", "password": "sarah789" },
+    { "name": "David Taylor", "username": "davidt", "email": "davidt@example.com", "password": "david123" },
+    { "name": "Olivia Anderson", "username": "oliviaa", "email": "oliviaa@example.com", "password": "olivia456" },
+    { "name": "James White", "username": "jameswhite", "email": "jameswhite@example.com", "password": "james789" },
+    { "name": "Sophia Martinez", "username": "sophiam", "email": "sophiam@example.com", "password": "sophia123" },
+    { "name": "Chris Lee", "username": "chrislee", "email": "chrislee@example.com", "password": "chris456" },
+    { "name": "Ava Harris", "username": "avaharris", "email": "avaharris@example.com", "password": "ava789" },
+    { "name": "Daniel Clark", "username": "danielc", "email": "danielc@example.com", "password": "daniel123" },
+    { "name": "Isabella Lewis", "username": "isabellal", "email": "isabellal@example.com", "password": "isabella456" },
+    { "name": "Matthew Walker", "username": "mattheww", "email": "mattheww@example.com", "password": "matthew789" },
+    { "name": "Mia Hall", "username": "miahall", "email": "miahall@example.com", "password": "mia123" },
+    { "name": "Andrew Young", "username": "andrewy", "email": "andrewy@example.com", "password": "andrew456" },
+    { "name": "Charlotte King", "username": "charlottek", "email": "charlottek@example.com", "password": "charlotte789" },
+    { "name": "Joshua Wright", "username": "joshuaw", "email": "joshuaw@example.com", "password": "joshua123" },
+    { "name": "Ella Lopez", "username": "ellalopez", "email": "ellalopez@example.com", "password": "ella456" }
+]
